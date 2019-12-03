@@ -1,0 +1,63 @@
+.username {
+    color:orchid;
+}
+.password {
+    color:blue;
+}
+
+.long {
+    border: 5px solid green;
+    height:1000px;
+    width:20px;
+}
+.register {
+border: 5px solid red;
+width:400px;
+height: 400px;
+position: absolute;
+top:30px;
+}
+/* .login {
+    border: 7px dotted greenyellow;
+    width:100px;
+    position:relative;
+    left:-10px;
+    } */
+/* .login {
+        border: 7px dotted greenyellow;
+        width:100px;
+        position: absolute;
+        left:10px;
+        top:10px;
+    } */
+.login {
+        border: 5px solid greenyellow;
+        width:100px;
+        height: 100px;
+        position: fixed;
+        top:10px;
+
+        
+    }
+.login1 {
+        border: 5px solid grey;
+        width:100px;
+        height: 100px;
+        position: absolute;
+        top:300px;
+        left:200px;
+
+        
+    }
+.scroll {
+    border: 5px solid green;
+        width:200px;
+        height: 800px;
+}
+.parent {
+    color: blue;
+}
+.child {
+      font-size: 12px;
+    }
+  

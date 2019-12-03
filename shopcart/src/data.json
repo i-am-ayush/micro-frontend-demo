@@ -1,0 +1,5 @@
+{
+    "templateList":[
+      {"name":"tryout2 app","entry": "localhost:7114", "route":"/20react20"}
+  ]
+  }
