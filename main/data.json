@@ -1,0 +1,7 @@
+{
+    "appList":[
+      {"name":"tryout1 app","entry": "//localhost:7112", "activeRule":"/18react18"},
+      {"name":"tryout-reactapp-1 app","entry": "//localhost:7113","activeRule":"/19react19","props":{"auth-id":1234}},
+      {"name": "parcel-demo app", "entry":"//localhost:7107","activeRule":"/16react16" }
+  ]
+  }
